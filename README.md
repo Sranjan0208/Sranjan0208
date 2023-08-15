@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sujalra81842273" target="blank"><img src="https://img.shields.io/twitter/follow/sujalra81842273?logo=twitter&style=for-the-badge" alt="sujalra81842273" /></a> </p>
 
-- 🔭 I’m currently working on [W20-w-connect-app for women](https://github.com/Sranjan0208/W20)
+- 🔭 I’m currently working on [Study-Buddy](https://github.com/Sranjan0208/Study-Buddy.git)
 
 - 🌱 I’m currently learning **Docker, Python automation, Kubernetes, Devops in general, DSA**
 
