@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Web Dev Projects**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-two-eta-18.vercel.app/](https://sujal-ranjan.vercel.app/)
+- 👨‍💻 All of my projects are available at [[https://portfolio-two-eta-18.vercel.app/](https://sujal-ranjan.vercel.app/)]
 
 - 📝 I regularly write articles on [https://hellodevs.hashnode.dev/](https://hellodevs.hashnode.dev/)
 
